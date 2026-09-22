@@ -15,9 +15,13 @@ The Farmers' Market Price & Sales Tracker is a Java-based application developed 
 Project Structure: 
 
 Farmer's market and sales tracker
+
 |-README.md
+
 |-ppt
+
 |-docs
+
 |-FarmerMarket.java
 
 Execution Instructions: 
