@@ -6,6 +6,7 @@ Team Members Names with ID Numbers:
 2. 2620040007 - G.Nayani
 3. 2620030580 - V.D.Sree sai
 Supervisor's Name : Dr.Madhavi Karumudi
+
 Abstract : Farmers' Market Price & Sales Tracker
 
 The Farmers' Market Price & Sales Tracker is a Java-based application developed to help farmers manage agricultural product details and sales efficiently. The system allows users to enter product names, prices per kilogram, and quantities sold. It automatically calculates the sales of each product using the formula Price × Quantity. The application provides features such as displaying product information, calculating total and average sales, identifying products with the highest sales and lowest prices, and searching for specific products. It uses Java programming concepts, including variables, arrays, loops, conditional statements, switch-case, and methods. The main objective of this project is to reduce manual calculations, organize sales information, and provide a simple solution for managing agricultural products. This project also helps students apply their Java programming knowledge to a practical real-world problem.
