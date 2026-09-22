@@ -5,6 +5,7 @@ Team Members Names with ID Numbers:
 1. 2620040164 - N.Thanmayi
 2. 2620040007 - G.Nayani
 3. 2620030580 - V.D.Sree sai
+
 Supervisor's Name : Dr.Madhavi Karumudi
 
 Abstract : Farmers' Market Price & Sales Tracker
@@ -19,5 +20,6 @@ Farmer's market and sales tracker
 |-FarmerMarket.java
 
 Execution Instructions: 
+
                 >javac FarmerMarket.java
                 >java FarmerMarket
